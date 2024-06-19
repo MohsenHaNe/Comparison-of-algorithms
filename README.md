@@ -1,1 +1,1 @@
-سلام اینجا مهم ترین الگوریتم های ماشین لرنینگ رو با ابزار sklearn معرفی میکنم امیدوارم مفید باشه
+Machine learning projects and concepts with Python(Sklearn,....)
