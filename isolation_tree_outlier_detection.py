@@ -19,7 +19,7 @@ data.head()
 
 data.info()
 
-data.isna().sum() # algorithm is not robust against nan data and the dataset must be without these values
+data.isna().sum() # algorithm is not robust against nan  and the dataset must be without these values
 
 anomaly_features = ['V1','V2'	,'V7'	,'V9'	,'V15'	,'V18'	,'V20'	,'V22']
 
